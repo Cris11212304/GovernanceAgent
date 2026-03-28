@@ -1,0 +1,101 @@
+sales_id,product_id,store_id,product_name,brand,category,volume_ml,alcohol_percentage,store_name,city,state,region,store_type,sales_date,quantity_sold,unit_price,total_sales
+1001,1,133,Tanqueray Most,Tanqueray,Vodka,750,27.21,"Jackson, Welch and Jacobs",Amandahaven,FM,Northeast,Retail,2025-04-25,5,94.11,470.55
+1002,2,102,Ciroc Politics,Ciroc,Rum,1000,41.17,"Garza, Schwartz and Moore",Louishaven,VI,West,Retail,2025-04-24,7,29.34,205.38
+1003,3,114,Smirnoff Expect,Smirnoff,Rum,750,43.75,Moore Inc,New Denisefurt,TN,West,Wholesale,2025-04-03,4,36.75,147.0
+1004,4,132,Johnnie Walker Mind,Johnnie,Gin,500,12.79,Coleman Ltd,Ariasside,VA,Midwest,Retail,2025-05-01,6,59.56,357.36
+1005,5,125,Baileys Candidate,Baileys,Tequila,500,38.81,"Parsons, Hoffman and Mcguire",Maciasport,KS,Midwest,Retail,2025-05-21,17,61.23,1040.91
+1006,6,124,Don Julio Machine,Don,Beer,750,28.78,Wang and Sons,New Alyssaburgh,MS,Northeast,Retail,2025-05-10,7,47.91,335.37
+1007,7,104,Smirnoff History,Smirnoff,Whisky,500,23.95,"Castillo, Krueger and Smith",Andrewmouth,MN,Midwest,Retail,2025-03-29,10,24.53,245.3
+1008,8,115,Tanqueray Apply,Tanqueray,Gin,1000,36.1,Vargas-Rosario,North Erik,PR,West,Wholesale,2025-03-30,38,49.12,1866.56
+1009,9,112,Baileys Decide,Baileys,Liqueur,500,40.02,Burns-Reynolds,Yuside,HI,Midwest,Wholesale,2025-04-03,25,20.09,502.25
+1010,10,127,Smirnoff There,Smirnoff,Vodka,700,41.63,Burgess and Sons,Hamiltonberg,MS,West,Retail,2025-03-28,6,7.18,43.08
+1011,11,136,Ciroc Development,Ciroc,Whisky,1000,24.31,Guerrero-Hall,South Danielside,OK,Midwest,Retail,2025-04-29,41,76.48,3135.68
+1012,12,108,Captain Morgan Occur,Captain,Vodka,1000,18.89,Anderson-Bell,Douglasstad,AL,South,Wholesale,2025-03-28,32,47.1,1507.2
+1013,13,135,Guinness There,Guinness,Rum,700,38.84,"Lee, Jones and Contreras",Lake Markton,SC,Midwest,Retail,2025-04-27,16,49.36,789.76
+1014,14,113,Johnnie Walker Amount,Johnnie,Vodka,750,9.09,Robbins Inc,Lake Mary,CA,West,Retail,2025-04-18,17,93.55,1590.35
+1015,15,128,Tanqueray Enter,Tanqueray,Liqueur,750,40.28,Brown PLC,Claireborough,CT,West,Retail,2025-04-21,46,81.39,3743.94
+1016,16,120,Don Julio Name,Don,Whisky,1000,18.33,Miller Group,West Billy,NV,Midwest,Wholesale,2025-04-29,30,75.85,2275.5
+1017,17,131,Guinness Respond,Guinness,Beer,700,39.51,Benjamin-Hamilton,Isabellaland,AS,Midwest,Retail,2025-05-17,25,19.37,484.25
+1018,18,130,Don Julio West,Don,Tequila,750,11.56,"Lewis, Williams and Howell",South Nicholas,TX,Northeast,Wholesale,2025-05-22,17,87.79,1492.43
+1019,19,103,Smirnoff Power,Smirnoff,Liqueur,700,5.7,"Garcia, Heath and Cole",Aaronborough,NV,Northeast,Wholesale,2025-05-26,29,23.43,679.47
+1020,20,145,Guinness Artist,Guinness,Vodka,500,24.05,Williams LLC,South Stefanieborough,ND,South,Wholesale,2025-04-15,34,7.69,261.46
+1021,21,146,Guinness Couple,Guinness,Liqueur,1000,42.29,Irwin Ltd,Candaceview,NE,West,Wholesale,2025-04-14,31,71.88,2228.28
+1022,22,124,Smirnoff Season,Smirnoff,Rum,700,24.56,"Boyd, Gonzalez and Krause",Port Mistyborough,ID,South,Retail,2025-05-25,40,23.91,956.4
+1023,23,141,Baileys Or,Baileys,Whisky,1000,35.19,Franklin PLC,Nancyland,AS,South,Retail,2025-05-12,2,44.26,88.52
+1024,24,122,Captain Morgan Standard,Captain,Rum,700,18.4,Thompson Inc,West Arthurberg,MO,Southeast,Retail,2025-05-18,26,38.11,990.86
+1025,25,121,Captain Morgan Image,Captain,Tequila,750,26.63,Barr-Green,South Stacey,AL,Midwest,Wholesale,2025-04-02,47,43.43,2041.21
+1026,26,109,Don Julio Specific,Don,Tequila,700,26.05,"Williams, Greene and Love",Lake Carriefort,NY,West,Retail,2025-05-10,41,51.91,2128.31
+1027,27,106,Ciroc Of,Ciroc,Whisky,750,39.65,"Smith, Ferguson and Huffman",Carolynburgh,VI,Northeast,Wholesale,2025-04-20,45,14.33,644.85
+1028,28,145,Ciroc Stock,Ciroc,Beer,700,25.78,"Velasquez, Nelson and Dennis",Christopherhaven,SC,South,Wholesale,2025-04-05,21,26.43,555.03
+1029,29,135,Johnnie Walker Deep,Johnnie,Beer,1000,17.13,Pittman PLC,East Nicholas,MT,Midwest,Wholesale,2025-04-02,44,64.01,2816.44
+1030,30,104,Ciroc Chair,Ciroc,Beer,750,41.84,Mcintyre Ltd,New Danielfort,TX,Northeast,Wholesale,2025-05-03,1,25.96,25.96
+1031,31,146,Tanqueray Success,Tanqueray,Whisky,1000,10.78,"Harvey, Callahan and Vargas",West Deanna,DC,Midwest,Retail,2025-04-04,2,18.55,37.1
+1032,32,134,Captain Morgan Star,Captain,Tequila,500,22.32,Holland LLC,New Rachel,GU,West,Retail,2025-04-26,22,40.46,890.12
+1033,33,124,Captain Morgan Carry,Captain,Gin,700,28.78,"Ferguson, Neal and Ferguson",Sherylview,KS,Southeast,Retail,2025-05-04,37,29.3,1084.1
+1034,34,118,Captain Morgan Want,Captain,Beer,700,40.97,Sutton Group,North Reneefort,SD,Northeast,Retail,2025-04-07,27,11.5,310.5
+1035,35,117,Tanqueray Own,Tanqueray,Gin,750,4.38,Hayden Inc,East Derrick,IN,South,Wholesale,2025-05-20,30,20.1,603.0
+1036,36,116,Johnnie Walker Heart,Johnnie,Liqueur,750,11.73,"Henry, Flores and Harris",East Ronniebury,HI,Southeast,Retail,2025-04-20,26,94.85,2466.1
+1037,37,120,Guinness Star,Guinness,Tequila,1000,44.89,Carter-Perez,New Amy,ID,Southeast,Retail,2025-04-28,16,43.39,694.24
+1038,38,144,Guinness Morning,Guinness,Gin,1000,13.24,Glover Group,Michaelfurt,MD,South,Retail,2025-05-17,8,62.32,498.56
+1039,39,124,Johnnie Walker Senior,Johnnie,Tequila,500,37.5,Le Inc,Port Laurafort,NV,West,Retail,2025-05-16,18,11.81,212.58
+1040,40,110,Ciroc Brother,Ciroc,Tequila,1000,4.98,Palmer-Daniels,East Aaronstad,MN,South,Wholesale,2025-05-11,37,73.44,2717.28
+1041,41,119,Guinness Usually,Guinness,Beer,700,35.49,Russell-Baker,South Anthony,TX,Southeast,Retail,2025-05-17,31,17.58,544.98
+1042,42,119,Johnnie Walker Movement,Johnnie,Rum,1000,24.11,Schneider LLC,Barneshaven,CA,Midwest,Wholesale,2025-04-27,16,79.79,1276.64
+1043,43,120,Smirnoff Line,Smirnoff,Beer,700,21.45,Trujillo-Newton,Stevenburgh,OK,West,Retail,2025-04-06,34,92.27,3137.18
+1044,44,107,Smirnoff Collection,Smirnoff,Beer,1000,22.81,"Strickland, Thompson and Sandoval",Hendersonstad,OH,South,Retail,2025-03-30,18,45.23,814.14
+1045,45,122,Smirnoff Mention,Smirnoff,Whisky,750,33.47,"Valencia, Mills and Stout",South Christopher,MH,Midwest,Wholesale,2025-05-06,29,41.47,1202.63
+1046,46,123,Tanqueray Should,Tanqueray,Rum,750,8.09,Thornton-Contreras,Terryland,CA,South,Retail,2025-03-28,10,74.59,745.9
+1047,47,127,Ciroc Over,Ciroc,Rum,1000,31.23,Schmidt Inc,Lake Judy,PA,Midwest,Wholesale,2025-04-01,44,53.68,2361.92
+1048,48,149,Captain Morgan Affect,Captain,Tequila,1000,40.47,"Rodriguez, Martinez and Bates",Yoderton,AK,Southeast,Retail,2025-05-19,22,28.77,632.94
+1049,49,115,Smirnoff Character,Smirnoff,Liqueur,500,16.99,Johnson-Bishop,Paulashire,MA,Southeast,Wholesale,2025-04-21,24,77.31,1855.44
+1050,50,138,Don Julio Pull,Don,Gin,750,39.13,"Clark, Carpenter and Velez",Port Nicholasview,TX,Northeast,Wholesale,2025-05-21,41,16.76,687.16
+1051,51,101,Don Julio Still,Don,Vodka,1000,15.29,"Schwartz, Gardner and Smith",North Melissa,ID,Northeast,Wholesale,2025-03-31,4,99.42,397.68
+1052,52,132,Baileys Up,Baileys,Rum,500,17.82,"Davis, Thomas and Martin",Port Brianfurt,CA,Northeast,Wholesale,2025-03-29,4,10.03,40.12
+1053,53,129,Don Julio From,Don,Beer,750,31.58,Chambers Group,Thompsonburgh,PR,West,Wholesale,2025-05-02,33,42.13,1390.29
+1054,54,114,Johnnie Walker Parent,Johnnie,Beer,750,23.16,"Williams, Johnson and Oliver",Alexanderhaven,NJ,Northeast,Wholesale,2025-05-13,16,20.81,332.96
+1055,55,129,Tanqueray Where,Tanqueray,Liqueur,700,7.58,Scott Ltd,Phillipsshire,VI,West,Retail,2025-05-25,9,17.79,160.11
+1056,56,112,Ciroc Campaign,Ciroc,Beer,750,15.0,"Martin, Young and Parsons",South Leslieview,FM,Southeast,Wholesale,2025-04-11,7,91.9,643.3
+1057,57,139,Guinness Parent,Guinness,Vodka,500,18.4,Johnson Group,Meyertown,NJ,Northeast,Retail,2025-05-07,9,29.52,265.68
+1058,58,139,Captain Morgan Step,Captain,Rum,700,18.98,"Hamilton, Armstrong and Garcia",South Daniel,ME,Southeast,Wholesale,2025-04-08,16,43.52,696.32
+1059,59,104,Baileys Public,Baileys,Liqueur,700,34.83,Francis Inc,North Katherine,AS,West,Retail,2025-05-10,19,25.76,489.44
+1060,60,148,Ciroc Pass,Ciroc,Tequila,700,36.72,Alexander Inc,West Michael,CT,Midwest,Retail,2025-03-30,19,5.09,96.71
+1061,61,148,Tanqueray Find,Tanqueray,Whisky,750,30.09,Tucker-Cox,New Thomastown,RI,West,Retail,2025-05-24,28,75.56,2115.68
+1062,62,110,Smirnoff Present,Smirnoff,Whisky,750,30.22,Ray Ltd,Laurenhaven,GU,West,Wholesale,2025-04-21,11,74.2,816.2
+1063,63,133,Johnnie Walker Likely,Johnnie,Rum,750,27.97,Yang-Jensen,Port Kerryfort,CA,Northeast,Retail,2025-05-22,47,35.05,1647.35
+1064,64,143,Guinness General,Guinness,Rum,700,28.46,"Smith, Baker and Cooper",Ryanshire,NY,Northeast,Retail,2025-04-12,49,32.32,1583.68
+1065,65,134,Johnnie Walker Opportunity,Johnnie,Gin,500,6.98,Shields-Sims,West John,PW,West,Retail,2025-05-15,37,55.18,2041.66
+1066,66,106,Don Julio Mr,Don,Tequila,700,44.39,Hayes Ltd,Shortstad,DC,West,Wholesale,2025-04-16,15,85.62,1284.3
+1067,67,108,Don Julio Money,Don,Tequila,1000,16.2,Moore and Sons,Woodsland,NC,Southeast,Wholesale,2025-04-29,16,8.53,136.48
+1068,68,101,Don Julio Unit,Don,Tequila,750,25.76,King-Lynch,South Pamelaview,OK,Midwest,Retail,2025-05-02,50,70.42,3521.0
+1069,69,143,Baileys Seem,Baileys,Tequila,700,23.38,Collins-Gaines,Olsonside,WY,Southeast,Retail,2025-04-09,18,83.74,1507.32
+1070,70,150,Guinness Box,Guinness,Beer,750,12.42,"Simmons, Evans and Gregory",Parkerhaven,WA,South,Retail,2025-05-08,17,6.34,107.78
+1071,71,114,Guinness Region,Guinness,Gin,750,23.77,Lopez-Velazquez,Jonesside,AR,Northeast,Wholesale,2025-04-14,8,73.43,587.44
+1072,72,119,Baileys Result,Baileys,Rum,750,43.95,Gibbs LLC,Veronicafurt,MD,Northeast,Wholesale,2025-05-24,27,79.16,2137.32
+1073,73,125,Ciroc And,Ciroc,Beer,1000,11.61,"Stuart, Rivera and Walker",South Juanshire,WI,Northeast,Retail,2025-05-16,27,78.5,2119.5
+1074,74,122,Baileys Idea,Baileys,Rum,750,10.28,Campbell Inc,Esteshaven,MH,Southeast,Retail,2025-04-21,30,31.12,933.6
+1075,75,123,Tanqueray Feel,Tanqueray,Whisky,1000,21.71,Hill-Nielsen,Larsonburgh,MS,Southeast,Retail,2025-04-04,13,66.79,868.27
+1076,76,112,Captain Morgan Nothing,Captain,Tequila,1000,43.69,Watson-Miller,Castanedaside,UT,West,Wholesale,2025-04-21,7,58.11,406.77
+1077,77,116,Ciroc Score,Ciroc,Beer,1000,19.35,Taylor-Baker,Mariaton,GU,South,Retail,2025-03-29,30,8.78,263.4
+1078,78,135,Guinness Democrat,Guinness,Beer,700,6.05,Gardner-Long,Eileenburgh,AZ,Midwest,Retail,2025-05-06,49,45.01,2205.49
+1079,79,144,Johnnie Walker Skin,Johnnie,Rum,500,41.59,Forbes-Todd,Port Margaret,GU,West,Wholesale,2025-04-14,17,92.67,1575.39
+1080,80,150,Guinness Oil,Guinness,Rum,750,11.19,Powell and Sons,South Stevenview,MP,South,Retail,2025-04-23,32,35.35,1131.2
+1081,81,149,Captain Morgan Window,Captain,Rum,500,29.09,Watson and Sons,West Brandonchester,LA,West,Wholesale,2025-05-18,28,21.4,599.2
+1082,82,114,Smirnoff Institution,Smirnoff,Whisky,1000,5.81,Sutton-Pennington,Toniport,ND,Northeast,Wholesale,2025-04-04,34,7.04,239.36
+1083,83,132,Baileys Yourself,Baileys,Vodka,500,12.67,Mcdonald-Chen,South Maureenmouth,AL,Southeast,Wholesale,2025-04-26,44,46.23,2034.12
+1084,84,125,Smirnoff Room,Smirnoff,Liqueur,500,19.15,Bates Ltd,Carterburgh,VT,Southeast,Retail,2025-05-26,47,65.11,3060.17
+1085,85,137,Guinness Range,Guinness,Liqueur,500,27.38,Mcmahon-Allen,Geraldview,RI,West,Retail,2025-05-07,34,17.08,580.72
+1086,86,136,Don Julio More,Don,Gin,1000,32.52,Walters and Sons,Port Evan,AS,Southeast,Retail,2025-05-06,36,22.63,814.68
+1087,87,131,Guinness Officer,Guinness,Vodka,500,41.68,Hunter LLC,Patriciaburgh,AK,South,Retail,2025-05-01,17,13.33,226.61
+1088,88,102,Johnnie Walker Card,Johnnie,Liqueur,500,39.86,Morgan PLC,South Robertstad,IL,Midwest,Wholesale,2025-05-19,12,46.27,555.24
+1089,89,118,Johnnie Walker Partner,Johnnie,Gin,750,44.47,Thomas-Spencer,Lake Sandraborough,WV,South,Wholesale,2025-03-30,25,54.47,1361.75
+1090,90,102,Ciroc Factor,Ciroc,Whisky,750,6.39,Romero and Sons,Woodville,MS,Southeast,Retail,2025-05-01,46,76.23,3506.58
+1091,91,129,Baileys Research,Baileys,Liqueur,1000,19.77,"Ware, Black and Ball",Masonfort,AR,West,Wholesale,2025-04-24,14,28.19,394.66
+1092,92,128,Captain Morgan Surface,Captain,Vodka,1000,27.45,Smith-Holden,North Tammychester,AR,Southeast,Wholesale,2025-04-26,5,50.16,250.8
+1093,93,140,Baileys Seat,Baileys,Liqueur,700,44.98,Scott-Esparza,North Denise,MN,Southeast,Wholesale,2025-04-08,46,77.5,3565.0
+1094,94,145,Don Julio Building,Don,Gin,500,16.76,Ingram-Santos,New Cynthia,IL,Southeast,Retail,2025-05-16,36,57.7,2077.2
+1095,95,110,Captain Morgan Piece,Captain,Vodka,700,4.08,"Morrow, Cummings and Gray",Port Charles,FM,Northeast,Wholesale,2025-05-01,32,62.51,2000.32
+1096,96,118,Smirnoff Many,Smirnoff,Whisky,700,6.42,Woodward Group,Ellenmouth,AZ,Southeast,Wholesale,2025-05-22,44,80.52,3542.88
+1097,97,107,Tanqueray Effect,Tanqueray,Liqueur,500,44.52,"Silva, Salinas and Brown",Ronaldfort,MD,West,Retail,2025-04-28,41,19.6,803.6
+1098,98,107,Ciroc World,Ciroc,Vodka,1000,15.75,Young LLC,North Rebecca,MN,Southeast,Retail,2025-03-30,7,24.35,170.45
+1099,99,105,Baileys Compare,Baileys,Vodka,500,21.86,"Zamora, Reed and Lee",Haydenborough,AL,West,Wholesale,2025-04-15,5,22.43,112.15
+1100,100,134,Baileys Pm,Baileys,Rum,700,10.72,"Rodriguez, Spencer and Gross",East Paulton,TN,West,Wholesale,2025-05-09,28,28.78,805.84

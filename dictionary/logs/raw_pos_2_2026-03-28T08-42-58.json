@@ -1,0 +1,62 @@
+{
+  "file": "raw_pos_2.csv",
+  "timestamp": "2026-03-28T08:42:58",
+  "dictionary": "Dictionary_co_stg_transactions.xlsx",
+  "checks": {
+    "read_inputs": {
+      "status": "PASS",
+      "detail": "File loaded: 1000 rows, 17 columns"
+    },
+    "extract_governance": {
+      "status": "PASS",
+      "detail": "Object + Fields parsed"
+    },
+    "validate_headers": {
+      "status": "PASS",
+      "detail": "All 17 headers match"
+    },
+    "validate_column_count": {
+      "status": "PASS",
+      "detail": "Expected 17, got 17"
+    },
+    "validate_file_format": {
+      "status": "PASS",
+      "detail": "CSV format detected (delimiter: ',')"
+    },
+    "check_duplicates": {
+      "status": "PASS",
+      "detail": "0 duplicates on sales_id"
+    },
+    "validate_dates": {
+      "status": "PASS",
+      "detail": "All dates match yyyy-MM-dd"
+    },
+    "check_types_lengths": {
+      "status": "PASS",
+      "detail": "All types match"
+    },
+    "check_decimals": {
+      "status": "PASS",
+      "detail": "Precision OK"
+    },
+    "check_mandatory": {
+      "status": "PASS",
+      "detail": "No nulls in required fields"
+    },
+    "check_catalog_values": {
+      "status": "PASS",
+      "detail": "All values in allowed lists"
+    }
+  },
+  "schema_match": true,
+  "ai_agent_used": false,
+  "result": "ACCEPT",
+  "output_file": "C:\\Users\\USER\\OneDrive\\Documentos\\GovernanceAgent\\dictionary\\ready\\raw_pos_2_cleaned.csv",
+  "corrections_applied": [
+    "date format normalized in sales_date -> yyyy-MM-dd",
+    "cast sales_id to integer",
+    "cast product_id to integer",
+    "cast store_id to integer",
+    "cast volume_ml to integer"
+  ]
+}
