@@ -1,0 +1,35 @@
+# Virtual environments
+myenv/
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (large, not tracked)
+# dictionary/data/*.tsv.txt
+# dictionary/data/*.csv
+
+# Processing folders
+dictionary/landing/
+dictionary/quarantine/
+dictionary/work/
+dictionary/archive/

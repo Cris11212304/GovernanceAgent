@@ -1,0 +1,49 @@
+==================================================
+ETL MULTI-AGENT SYSTEM - SETUP INSTRUCTIONS
+==================================================
+
+1. INSTALL DEPENDENCIES
+   ----------------------
+   pip install -r requirements.txt
+
+
+2. CONFIGURE API KEY
+   ------------------
+   Your API key is already configured in .env file
+
+   File: .env
+   Content: OPENAI_API_KEY=sk-proj-...
+
+
+3. PREPARE DATA
+   -------------
+   - Place your data file (TSV or CSV) in the data/ folder
+   - Make sure Dictionary_co_stg_transactions.xlsx is in data/
+
+
+4. RUN THE PIPELINE
+   -----------------
+   python run.py data/raw_pos_2.csv
+
+
+==================================================
+ARCHITECTURE
+==================================================
+
+Phase 1 - Fixed Rule Validation:
+  - Reads dictionary (Object + Fields sheets)
+  - Runs 11 sequential validation checks
+  - Applies minor corrections (dates, types)
+  - Returns: ACCEPT / REJECT
+
+Phase 2 - AI Agent (activated on schema mismatch):
+  - Receives dictionary + incoming data sample
+  - Analyzes schema differences
+  - Generates and executes transformations
+  - Re-validates with fixed rules
+  - Returns: corrected file or REJECT
+
+Flow:
+  data/file.csv -> Phase 1 -> [pass?] -> ready/
+                            -> [schema mismatch?] -> Phase 2 -> [corrected?] -> ready/
+                                                              -> [failed?] -> quarantine/
